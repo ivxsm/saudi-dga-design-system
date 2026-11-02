@@ -1,13 +1,5 @@
 # Saudi DGA Unified Design System — Platforms Code (كود المنصات)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DGA-Platforms_Code-0A3D25?style=for-the-badge&logoColor=white" alt="DGA Platforms Code" />
-  <img src="https://img.shields.io/badge/Saudi_Vision-2030-25935F?style=for-the-badge" alt="Saudi Vision 2030" />
-  <img src="https://img.shields.io/badge/Accessibility-WCAG_2.2_AA-175CD3?style=for-the-badge" alt="WCAG 2.2 AA" />
-  <img src="https://img.shields.io/badge/Language-Arabic_First_(RTL)-F5BD02?style=for-the-badge&color=80519F" alt="Arabic First RTL" />
-  <img src="https://img.shields.io/badge/License-MIT-gray?style=for-the-badge" alt="MIT License" />
-</p>
-
 ---
 
 ## Overview
